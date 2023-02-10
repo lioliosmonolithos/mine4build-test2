@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>MINE4BUILD</title>
+	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Innovative Low-cost Building Materials · Valorising Mining Wastes</description>
+	<lastBuildDate>Thu, 09 Feb 2023 10:29:01 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+
+<image>
+	<url>/wp-content/uploads/2023/02/cropped-Mine4Build-icon-1-32x32.png</url>
+	<title>MINE4BUILD</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>MNLT Innovations PC &#038; Gevora Construcciones S.A. are the winner🥇SMEs of the “MINE4BUILD” Project! 👏</title>
+		<link>/mnlt-innovations-pc-gevora-construcciones-s-a-are-the-winner%f0%9f%a5%87smes-of-the-mine4build-project-%f0%9f%91%8f/</link>
+					<comments>/mnlt-innovations-pc-gevora-construcciones-s-a-are-the-winner%f0%9f%a5%87smes-of-the-mine4build-project-%f0%9f%91%8f/#respond</comments>
+		
+		<dc:creator><![CDATA[liolios-monolithos]]></dc:creator>
+		<pubDate>Thu, 22 Dec 2022 10:23:17 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/?p=540</guid>
+
+					<description><![CDATA[MINE4BUILD will allow MNLT Innovations PC to expand its product and application range by developing eco-friendly🧩geopolymer based materials with dual behavior on fire and blast resistance that will be implemented through the valorization of mine...]]></description>
+		
+					<wfw:commentRss>/mnlt-innovations-pc-gevora-construcciones-s-a-are-the-winner%f0%9f%a5%87smes-of-the-mine4build-project-%f0%9f%91%8f/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Mid-Term Follow-up was held online on 13 December 2022!</title>
+		<link>/mid-term-follow-up-was-held-online-on-13-december-2022/</link>
+					<comments>/mid-term-follow-up-was-held-online-on-13-december-2022/#respond</comments>
+		
+		<dc:creator><![CDATA[liolios-monolithos]]></dc:creator>
+		<pubDate>Wed, 14 Dec 2022 10:25:13 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/?p=542</guid>
+
+					<description><![CDATA[Mine4BUILD project partners had the opportunity to share the technical work that was carried out, the progress that has been achieved thus far, and a plan for all ongoing actions and upcoming steps. ]]></description>
+		
+					<wfw:commentRss>/mid-term-follow-up-was-held-online-on-13-december-2022/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
